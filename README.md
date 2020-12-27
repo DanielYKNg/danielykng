@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2> Hi! I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+
+I'm currently a 🤖 CS + 📈 Finance student at the 📚 University of Pennsylvania. 
+
+#### Here's some highlights from my private projects behind the curtain:
+
+- 🖥️ A stack-based language (like Fortran) compiler for a UPenn ISA (LC4, modified from LC3) _in C_
+- ✈ A flight dataset analyzer to calculate airport connectivity and trip itineraries _in Java_
+- 💀 A webscraper for mortality detection for a F500 insurance company _in Python_
+- 📚 A classroom teacher companion app for attendance and attention _in Visual C#_
+- 📄 Tons of _LaTeX_ papers for homework, presentations, and documentation
 
 <!--
 **DanielYKNg/danielykng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
