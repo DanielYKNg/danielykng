@@ -4,7 +4,7 @@ I'm currently a 🤖 CS + 📈 Finance student at the 📚 University of Pennsyl
 
 #### Here's some highlights from my private projects behind the curtain:
 
-- 🖥️ A stack-based language (like Fortran) compiler for a UPenn ISA (LC4, modified from LC3) _in C_
+- 🖥️ A stack-based language (like Forth) compiler for a UPenn ISA (LC4, modified from LC3) _in C_
 - ✈ A flight dataset analyzer to calculate airport connectivity and trip itineraries _in Java_
 - 💀 A webscraper for mortality detection for a F500 insurance company _in Python_
 - 📚 A classroom teacher companion app for attendance and attention _in Visual C#_
